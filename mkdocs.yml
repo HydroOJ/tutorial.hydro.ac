@@ -1,0 +1,12 @@
+site_name: HydroOJ 域功能使用指南
+theme:
+  name: material
+  language: zh
+  highlightjs: true
+copyright: 'Copyright @ 2023 Hydro Dev Team'
+markdown_extensions:
+    - toc:
+        permalink: "#"
+nav:
+  - 前言: index.md
+  - 创建与管理: create.md
